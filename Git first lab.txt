@@ -1,0 +1,16 @@
+
+First LAB:
+install Git bash
+create one folder
+go to inside folder
+git init
+create one file
+git add --> git commit -m
+create git hub account
+create one repository in git hub
+copy origin (remote UR)
+configure in your git bash using git remote add command
+git push origin main
+
+Create one fie in git hub repository
+using git pull download to your local repo
